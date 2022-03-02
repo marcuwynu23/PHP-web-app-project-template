@@ -1,2 +1,3 @@
 @echo off 
+echo Opening in default browser and running the server in port 9000...
 wr http://localhost:9000 && php -S localhost:9000 main.php 

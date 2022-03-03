@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-<?php include "views/initials/head.php" ?>
+<?php include "view/initial/head.php" ?>
 <body>
-  <?php include "views/initials/header.php" ?>
+  <?php include "view/initial/header.php" ?>
   <main>
     <h1>Home</h1>
     <p>

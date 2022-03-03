@@ -2,5 +2,5 @@
   <style>
     <?php include "public/css/style.css" ?>
   </style>
-  <title>Web Application</title>
+  <title>Sample Web Application</title>
 </head>

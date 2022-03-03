@@ -1,14 +1,15 @@
 <header>
+  <h1 id="title-name">Sample Web Application</h1>
   <nav>
     <ul class="nav-list">
       <li class="nav-item">
-        <a href="/">home</a>
+        <a href="/">Home</a>
       </li>
       <li class="nav-item">
-        <a href="/about">about</a>
+        <a href="/about">About</a>
       </li>
       <li class="nav-item">
-        <a href="/help">help</a>
+        <a href="/help">Help</a>
       </li>
     </ul>
   </nav>

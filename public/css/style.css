@@ -3,8 +3,17 @@
   font-family: Arial;
 }
 .container{
-  background: #121212;
+  padding: 12px;
+  margin: 12px;
 }  
+.box-container{
+  box-shadow: lightgrey 1px 1px 4px 1px;
+}
+header{
+  color: white;
+  background-color: #121212;
+  padding: 12pt 12px;
+}
 
 .nav-list{
   text-align: left;
@@ -12,6 +21,18 @@
 }
 
 .nav-item{
+  color: white;
   display: inline;
   font-family: Arial;
+}
+
+.nav-item a{
+  color: white;
+  text-decoration: underline;
+  font-size: 12pt;
+  font-variant-caps: titling-case;
+}
+
+#title-name{
+  color: palevioletred !important;
 }
